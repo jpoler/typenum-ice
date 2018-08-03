@@ -1,0 +1,7 @@
+[package]
+name = "doc-ice"
+version = "0.1.0"
+authors = ["Jon Poler <jonathan.poler@gmail.com>"]
+
+[dependencies]
+typenum = "1.10.0"
